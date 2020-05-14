@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>test1</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8dda9d6e-3d58-41d6-aeb8-33ad476f99f4</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>b3d2d59e-dd0f-4624-bb45-ef78eb409a95</id>
+      <masked>false</masked>
+      <name>user</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>17042cfe-7e02-4443-8d7f-f55f271a77ee</id>
+      <masked>false</masked>
+      <name>networkId</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>bf69ecd2-4e7b-4b21-a2b4-cb4619e8f3d9</id>
+      <masked>false</masked>
+      <name>name</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>0a921a5a-206a-4888-ac05-3e5e2c95fb40</id>
+      <masked>false</masked>
+      <name>email1</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>b626c52b-38a7-4e30-a9a2-1aa394621f44</id>
+      <masked>false</masked>
+      <name>employeeId</name>
+   </variable>
+</TestCaseEntity>
